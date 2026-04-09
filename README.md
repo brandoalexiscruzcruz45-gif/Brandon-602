@@ -1,4 +1,4 @@
 # Mi proyecto
 Desarrollo e Implementacion de Sistemas de Informacion
-Brandon Alexis Cruz Cruz Cruz 
+Mariana Ramirez Vilchis 
 Grupo:602
